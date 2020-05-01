@@ -346,7 +346,26 @@ npm -v
 ```
 You should get back the exact version that is installed.
 
+## Required Reading
+
+Now that you have everything installed and set up, take some time
+to read the first 6 chapters of this free online book: [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+This book is an absolutely great resource for learning programming
+and goes into nice detail about the basics of the language, and some
+programming concepts.
+
+You may need to reread parts of the book a couple of times. It's
+totally okay if things are not clicking after reading those 6
+chapters... that's what I'm here to help with!
+
+Best of all, if you're viewing the book in a web browser, it includes
+areas where you can run their code examples right then and there. 
+Please do not skip over the code examples, and try your best
+to follow along and play with everything their writing their example
+code!
+
 # Let's Code!
 
-Now that everything we need is installed, reach out to me to schedule a one-on-one Zoom session
+Now that everything we need is installed and you've read up on the beginning details of JavaScript, reach out to me to schedule a one-on-one Zoom session
 where we can go over some basics of programming in JavaScript.
