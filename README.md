@@ -264,10 +264,10 @@ Changes to be committed:
 
 Before we commit this change, we need to modify some global git settings so it
 shows up as your GitHub username. We only need to do this one time ever on your
-computer. Enter these set of commands, change it so it is your name, make sure to
+computer. Enter these set of commands, change it so it is your GitHub username, make sure to
 keep the quotation marks.
 ```
-$ git config --global user.name "David Wayman"
+$ git config --global user.name "r3dcrosse"
 ```
 ```
 $ git config --global user.email "your_email_here@email.com"
